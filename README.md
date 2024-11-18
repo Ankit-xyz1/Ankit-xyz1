@@ -53,6 +53,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Ankit-xyz1/Ankit-xyz1/output/snake.svg" alt="Snake animation" />
 
 ###
