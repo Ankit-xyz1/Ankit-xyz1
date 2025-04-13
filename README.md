@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit</h1>
-<h3 align="center">A Engineewwwwwr</h3>
+<h3 align="center">A software Engineewwwwwr</h3>
 <p align="center">
   <img src="https://res.cloudinary.com/dry07iyvo/image/upload/v1735366890/coding_utrxxa.gif" width="300" height="auto" alt="Coding"/>
 </p>
