@@ -1,11 +1,8 @@
 <h1 align="center">Portfolio : www.ankit.club </h1>
 <h1 align="center">Hi 👋, I'm Ankit</h1>
-<h3 align="center">A software Engineewwwwwr</h3>
+<h3 align="center">A software Engineewar</h3>
 <p align="center">
   <img src="https://res.cloudinary.com/dry07iyvo/image/upload/v1735366890/coding_utrxxa.gif" width="300" height="auto" alt="Coding"/>
-</p>
-<p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Software+Engineer;FullStack Dev" width="auto" height="35" alt="Typing"/>
 </p>
 - 🌱 I’m currently learning **TypeScript and frame works**
 
