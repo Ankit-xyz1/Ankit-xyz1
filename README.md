@@ -6,7 +6,7 @@
 </p>
 - 🌱 I’m currently learning **Ai agents and System design**
 
-- 👨‍💻 All of my projects are available at [Github itself](Github itself)
+- 👨‍💻 All of my projects are available at Github itself
 
 - 📫 How to reach me **0xanki7@gmail.com**
 
