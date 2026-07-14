@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://res.cloudinary.com/dry07iyvo/image/upload/v1735366890/coding_utrxxa.gif" width="300" height="auto" alt="Coding"/>
 </p>
-- 🌱 I’m currently learning **TypeScript and frame works**
+- 🌱 I’m currently learning **Ai agents and System design**
 
 - 👨‍💻 All of my projects are available at [Github itself](Github itself)
 
